@@ -1,0 +1,13 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.clock {
+	width: 400px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20%;
+	font-size: 70pt;
+	color: #fff;
+}
